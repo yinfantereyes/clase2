@@ -1,5 +1,5 @@
 {
-    'cursos': [
+    "cursos": [
         {
             "titulo":"Programación orientada a objetos con Go",
             "imagen":"https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/go_0.jpg?itok=k2amLhrN",
@@ -17,7 +17,10 @@
         },
         {
         }
-    ]
+    ],
+    "profile": {
+        "name": "typicode"
+    }
 }    
 
 
