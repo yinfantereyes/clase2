@@ -20,33 +20,48 @@
     ],
     "talleres": [
         {
-            "titulo":"Programación orientada a objetos con Go",
+            "titulo":"Creación de APIs con Laravel",
+            "fechaInicio":"17 de feb.",
+            "imagen":"https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-02/Api%20con%20laravel.png",
+            "descripcion":"Aprende a crear una API Restful con Laravel para consumirla con cualquier framework JavaScript",
+            "precioAnterior":"96",
+            "precioActual":"79 soles",
+            "profesor":"Beto Quiroga",
+            "fotoProfesor":"https://api.ed.team/files/avatars/38118146-4b4a-4844-8959-157614e04cd1.jpg",
+            "calificacionProfesor":""
+        },
+        {
+            "titulo":"Crea infografías que impacten",
+            "fechaInicio":"24 de feb.",
+            "imagen":"https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-02/Infografi%CC%81as%20con%20Figma-v15%20%281%29.png",
+            "descripcion":"Atrae clientes o dicta cursos y conferencias con gráficos que la gente ama y comparte",
+            "precioAnterior":"72",
+            "precioActual":"58 soles",
+            "profesor":"Alvaro Felipe",
+            "fotoProfesor":"https://api.ed.team/files/avatars/18a0441b-8357-488f-a461-21d07260f46a.jpg",
+            "calificacionProfesor":""
+        },
+        {
+            "titulo":"Flujo de trabajo en equipo con Git",
             "fechaInicio":"",
-            "imagen":"https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/go_0.jpg?itok=k2amLhrN",
-            "precioAnterior":"50",
-            "precioActual":"20"
-            "profesor":"",
-            "fotoProfesor":""
+            "imagen":"https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-01/trabajo_en_equipo_con_git-v6.png",
+            "descripcion":"Aprende cómo los equipos de desarrollo de software usan Git",
+            "precioAnterior":"15",
+            "precioActual":"12 USD",
+            "profesor":"Beto Quiroga",
+            "fotoProfesor":"https://api.ed.team/files/avatars/18a0441b-8357-488f-a461-21d07260f46a.jpg",
+            "calificacionProfesor":"4.8"          
         },
         {
-            "titulo":"React.js Desde Cero",
-             "fechaInicio":"",
-            "imagen":"https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-04/React%20desde%20cero%20%281%29.png",
-            "precioAnterior":"30",
-            "precioActual":"25",
-            "profesor":"",
-            "fotoProfesor":""
-        },
-        {
-            "titulo":"Infraestructura de Redes",
-             "fechaInicio":"",
-            "imagen":"https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-03/Redes%20Infraestructura.png",
-            "precioAnterior":"40",
-            "precioActual":"30",
-            "profesor":"",
-            "fotoProfesor":""
-        },
-        {
+            "titulo":"App de Peliculas con Figma",
+            "fechaInicio":"",
+            "imagen":"https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-01/Poster%20rectangular-EDmovies%20%281%29.png",
+            "descripcion":"En este taller diseñarás con buenas prácticas el mockup y prototipo de una app de películas con Figma",
+            "precioAnterior":"",
+            "precioActual":"10 USD",
+            "profesor":"Alvaro Felipe",
+            "fotoProfesor":"https://api.ed.team/files/avatars/18a0441b-8357-488f-a461-21d07260f46a.jpg",
+            "calificacionProfesor":"5.0"
         }
     ],
     "profile": {
