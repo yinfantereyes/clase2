@@ -18,6 +18,37 @@
         {
         }
     ],
+    "talleres": [
+        {
+            "titulo":"Programación orientada a objetos con Go",
+            "fechaInicio":"",
+            "imagen":"https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/go_0.jpg?itok=k2amLhrN",
+            "precioAnterior":"50",
+            "precioActual":"20"
+            "profesor":"",
+            "fotoProfesor":""
+        },
+        {
+            "titulo":"React.js Desde Cero",
+             "fechaInicio":"",
+            "imagen":"https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-04/React%20desde%20cero%20%281%29.png",
+            "precioAnterior":"30",
+            "precioActual":"25",
+            "profesor":"",
+            "fotoProfesor":""
+        },
+        {
+            "titulo":"Infraestructura de Redes",
+             "fechaInicio":"",
+            "imagen":"https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-03/Redes%20Infraestructura.png",
+            "precioAnterior":"40",
+            "precioActual":"30",
+            "profesor":"",
+            "fotoProfesor":""
+        },
+        {
+        }
+    ],
     "profile": {
         "name": "typicode"
     }
