@@ -19,6 +19,7 @@
     "createdBy": "string",
     "mother": "string",
     "father": "string",
+    "personRelation": "User[]",
     "comments": "Comment[]"
   },
   "Comment": {
