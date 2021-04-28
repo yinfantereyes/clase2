@@ -1,5 +1,5 @@
 {
-  "users": {
+  "Users": {
     "id": "int",
     "identification": "date",
     "firstName": "string",
@@ -19,15 +19,15 @@
     "createdBy": "string",
     "mother": "string",
     "father": "string",
-    "address": "address",
-    "personRelation": "users[]"
+    "address": "Address",
+    "personRelation": "Users[]"
     
   },
   "Comment": {
     "body": "string",
     "post": "Post"
   },
-   "address": {
+   "Address": {
     "street": "string",
     "houseNumber": "int",
     "district": "string",
