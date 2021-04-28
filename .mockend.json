@@ -1,13 +1,37 @@
 {
-  "User": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+  "users": {
+    "id": "int",
+    "identification": "date",
+    "firstName": "string",
+    "secondName": "string",
+    "firstSurName": "string",
+    "secondSurName": "string",
+    "username": "string",
+    "email": "string",
+    "bornDate": "date",
+    "birthDistrict": "string",
+    "birthState": "string",
+    "sex": "string",
+    "eyesColor": "string",
+    "skinColor": "string",
+    "cityzenship": "string",
+    "createdDate": "date",
+    "createdBy": "string",
+    "mother": "string",
+    "father": "string",
+    "address": "address",
+    "personRelation": "users[]"
+    
   },
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+   "address": {
+    "street": "string",
+    "houseNumber": "int",
+    "district": "string",
+    "state": "string",
+    "country": "string",
   }
 }
