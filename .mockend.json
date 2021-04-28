@@ -18,10 +18,7 @@
     "createdDate": "date",
     "createdBy": "string",
     "mother": "string",
-    "father": "string",
-    "address": "Address",
-    "personRelation": "Users[]"
-    
+    "father": "string"
   },
   "Comment": {
     "body": "string",
@@ -32,6 +29,6 @@
     "houseNumber": "int",
     "district": "string",
     "state": "string",
-    "country": "string",
+    "country": "string"
   }
 }
