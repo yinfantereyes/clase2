@@ -1,9 +1,24 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
+  "User": {
+    "id": "int",
+    "identification": "int",
+    "firstName": "string",
+    "secondName": "string",
+    "firstSurName": "string",
+    "secondSurName": "string",
+    "username": "string",
+    "email": "string",
+    "bornDate": "date",
+    "birthDistrict": "string",
+    "birthState": "string",
+    "sex": "string",
+    "eyesColor": "string",
+    "skinColor": "string",
+    "cityzenship": "string",
+    "createdDate": "date",
+    "createdBy": "string",
+    "mother": "string",
+    "father": "string",
     "comments": "Comment[]"
   },
   "Comment": {
